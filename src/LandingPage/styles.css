@@ -118,13 +118,13 @@
   width: 12.6875rem; /* Adjusted for responsiveness */
 }
 
-.landingPage .our-vision {
-  height: 34.125rem; /* Adjusted for responsiveness */
-  left: 6.9125rem; /* Adjusted for responsiveness */
-  position: absolute;
-  top: 69.5rem; /* Adjusted for responsiveness */
-  width: 90.9375rem; /* Adjusted for responsiveness */
-}
+/*.landingPage .our-vision {*/
+/*  height: 34.125rem; !* Adjusted for responsiveness *!*/
+/*  left: 6.9125rem; !* Adjusted for responsiveness *!*/
+/*  position: absolute;*/
+/*  top: 69.5rem; !* Adjusted for responsiveness *!*/
+/*  width: 90.9375rem; !* Adjusted for responsiveness *!*/
+/*}*/
 
 .landingPage .text-wrapper {
   color: #000000;
@@ -177,13 +177,13 @@
   width: 9.6875rem; /* Adjusted for responsiveness */
 }
 
-.landingPage .how-it-works {
-  height: 42.375rem; /* Adjusted for responsiveness */
-  left: 0.5625rem; /* Adjusted for responsiveness */
-  position: absolute;
-  top: 43.6875rem; /* Adjusted for responsiveness */
-  width: 45.625rem; /* Adjusted for responsiveness */
-}
+/*.landingPage .how-it-works {*/
+/*  height: 42.375rem; !* Adjusted for responsiveness *!*/
+/*  left: 0.5625rem; !* Adjusted for responsiveness *!*/
+/*  position: absolute;*/
+/*  top: 43.6875rem; !* Adjusted for responsiveness *!*/
+/*  width: 45.625rem; !* Adjusted for responsiveness *!*/
+/*}*/
 
 .landingPage .overlap-4 {
   background-color: #fff7f6;
@@ -757,17 +757,17 @@
   top: 1.125rem; /* Adjusted for responsiveness */
 }
 
-.landingPage .how-it-works-contact {
-  color: #ffffff;
-  font-family: "Montserrat", Helvetica;
-  font-size: 1.1875rem; /* Adjusted for responsiveness */
-  font-weight: 500;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 1.3125rem; /* Adjusted for responsiveness */
-}
+/*.landingPage .how-it-works-contact {*/
+/*  color: #ffffff;*/
+/*  font-family: "Montserrat", Helvetica;*/
+/*  font-size: 1.1875rem; !* Adjusted for responsiveness *!*/
+/*  font-weight: 500;*/
+/*  left: 0;*/
+/*  letter-spacing: 0;*/
+/*  line-height: normal;*/
+/*  position: absolute;*/
+/*  top: 1.3125rem; !* Adjusted for responsiveness *!*/
+/*}*/
 
 .landingPage .text-wrapper-23 {
   color: #ffffff;

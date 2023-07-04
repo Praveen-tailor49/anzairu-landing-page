@@ -1,0 +1,79 @@
+section {
+    padding: 0 10rem;
+}
+
+.win-a-collectible-coin--div {
+    display: flex;
+    align-items: center;
+}
+
+.win-a-collectible-coin.img-div {
+    width: 50%;
+}
+
+.win-a-collectible-coin.img-div .black-img {
+    background-color: #222;
+    border-radius: 0.625rem;
+    height: 8.03125rem; 
+    position: absolute;
+    width: 8.15625rem;
+    z-index: -1;
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+}
+
+.win-a-collectible-coin.txt-div {
+    padding: 2rem;
+    width: 50%;
+}
+
+.win-a-collectible-coin.txt-div p {
+    font-size: 1.6875rem;
+    padding-top: 1rem;
+}
+
+.how-it-works {
+    background: #fff7f6;
+    width: calc(100% + 20rem);
+    margin-left: -10rem;
+    padding: 5rem 10rem;
+    text-align: center;
+}
+
+.how-it-works--cards {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 1rem;
+}
+
+.how-it-works--card {
+    width: 33%;
+    background: #fff;
+    border-radius: 0.9375rem;
+    box-shadow: 0 0 1.25rem #00000012;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.how-it-works--card img {
+    width: 5.53125rem;
+    margin-top: 2rem;
+}
+
+.how-it-works--card > div {
+    padding-bottom: 3rem;
+}
+
+.how-it-works--card h3 {
+    color: #DF3317;
+    font-weight: 800;
+}
+
+.how-it-works--card p {
+    font-size: 1.0625rem;
+    margin-top: 1rem;
+    padding: 0 1rem;
+}
