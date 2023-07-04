@@ -1,0 +1,100 @@
+.footer_con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(180deg, rgb(29.75, 29.75, 29.75) 0%, rgb(81.81, 81.23, 81.13) 100%);
+    height: 470px;
+    width: 100%;
+    font-family: "Montserrat", Helvetica;
+}
+
+.footer_con .left_con, .footer_con .right_con {
+    flex: 1;
+
+}
+
+.footer_con .left_con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+
+
+
+
+.footer_con .left_con P {
+    line-height: 161.9%;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 1.2rem;
+}
+
+
+.custom_btn {
+    font-size: 19px;
+    padding: 1rem 2.6875rem;
+    border-radius: 4.375rem;
+    background: linear-gradient(180deg, #DF3417 0%, #FF4F32 100%);
+    font-weight: 700;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border: 2px solid #f8492c;
+}
+
+.footer_con .left_con button:hover {}
+
+
+.right_con h3 {
+    color: #fff;
+    font-weight: 800;
+    margin-bottom: 2.5rem;
+}
+
+
+.right_con .form_con {
+    background-color: #fff;
+    border-radius: 0.9375rem;
+    width: 80%;
+    padding: 2.375rem 1.625rem;
+
+
+}
+
+.right_con .form_con .input_con {
+    display: flex;
+}
+
+.right_con .form_con .input_wrp {
+    padding: 0.1rem;
+    width: 33.33%;
+}
+
+
+.right_con .form_con input {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #e2e0e0;
+    height: 3.3125rem;
+    border-radius: 0.625rem;
+    padding: 0.5rem 0.2rem;
+    width: 100%;
+}
+
+.right_con .form_con textarea {
+    background-color: #ffffff;
+    color: #6f6b6b;
+    font-size: 0.875rem;
+    border: 1px solid;
+    border-color: #e2e0e0;
+    border-radius: 0.625rem;
+    width: 100%;
+    margin-top: 0.3rem;
+}
+
+.form_con button {
+    margin-top: 1rem;
+}
